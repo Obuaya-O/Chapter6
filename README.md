@@ -8,6 +8,7 @@ Appendices for Chapter 6
 ### 2. Data Extraction
 * **Study Characteristics Table:** A scrollable overview of the baseline demographics, trial design, and interventions for all included studies ($N=$ 22,546).
 * **Phase II & Phase III Extraction Sheets:** The standardised templates and raw extracted data utilised to capture relevant biomarker data, cognitive outcomes and relevant statistical parameters across the different trials.
+* **Author Data Request:** Template of the email sent to corresponding authors when data was not available publically.
 
 ### 3. Quality Assessment
 * **Risk of Bias (ROBUST-RCT) Judgements:** The detailed assessment of methodological quality and potential biases for each included trial, conducted using the ROBUST-RCT tool.
