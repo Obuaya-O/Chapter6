@@ -2,8 +2,8 @@
 Appendices for Chapter 6
 
 ### 1. Search Methodology
-* **Piloting Exercise:** Documentation of the iterative process used to refine the search strings
-* **Database Search Strategies:** The exact, reproducible Boolean search strings applied to each database (PubMed and Embase)
+* **Piloting Exercise and Database Search Strategies:** Documentation of the iterative process used to refine the search strings plus the exact, reproducible Boolean search strings applied to each database (PubMed and Embase).
+* **List of excluded studies** 
 
 ### 2. Data Extraction
 * **Study Characteristics Table:** A scrollable overview of the baseline demographics, trial design, and interventions for all included studies ($N=$ 22,546).
